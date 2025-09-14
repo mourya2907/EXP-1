@@ -44,26 +44,28 @@ Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic 
 
 
 ## a.   KVL:
+<img width="633" height="381" alt="Screenshot 2025-09-14 220400" src="https://github.com/user-attachments/assets/c3160a93-4a3f-4efb-8859-4b76e4007023" />
 
-<img width="633" height="381" alt="Screenshot 2025-09-14 220400" src="https://github.com/user-attachments/assets/c049fb77-e30d-4821-a6b5-60a28281bea5" />
 
- 
+
 
 
 ## b.  KCL:
 
+<img width="622" height="290" alt="Screenshot 2025-09-14 220445" src="https://github.com/user-attachments/assets/5c1a1563-8839-436d-a31b-3a10be9a0750" />
 
- <img width="622" height="290" alt="Screenshot 2025-09-14 220445" src="https://github.com/user-attachments/assets/ee4aa8d5-1790-4c31-8eeb-ef5ab08738ed" />
 
-
+ 
 ### Calculation:
 
 ## a.   KVL:
-![WhatsApp Image 2025-09-14 at 22 15 52_e12e2aa2](https://github.com/user-attachments/assets/75ce4a9a-ca69-4b32-b070-d5a1fd28fcfc)
+
+<img width="1018" height="900" alt="Screenshot 2025-09-14 223636" src="https://github.com/user-attachments/assets/a8577c76-f250-4da4-9d13-87c6660164b7" />
 
 
+<img width="1025" height="262" alt="Screenshot 2025-09-14 223728" src="https://github.com/user-attachments/assets/47052fe1-ce2f-4d28-9f84-128160dce960" />
 
-![WhatsApp Image 2025-09-14 at 22 15 43_a42a2ac9](https://github.com/user-attachments/assets/af669fbd-ab33-415a-a79c-20a71db93a4d)
+
 
 
  
@@ -71,10 +73,14 @@ Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic 
 
 ## b.  KCL:
 
-![WhatsApp Image 2025-09-14 at 22 19 26_eccd0c6e](https://github.com/user-attachments/assets/93e194d7-4877-46f7-a467-0251c2a2e7f1)
+<img width="1006" height="730" alt="Screenshot 2025-09-14 223827" src="https://github.com/user-attachments/assets/76b67e87-326b-443d-9aed-2ee7c17a77f3" />
 
 
-![WhatsApp Image 2025-09-14 at 22 19 25_6935b6f0](https://github.com/user-attachments/assets/2ece981b-cb27-438f-8698-1f3ade88c831)
+<img width="916" height="681" alt="Screenshot 2025-09-14 223921" src="https://github.com/user-attachments/assets/c3990530-2535-45f3-b501-32f0d253b59e" />
+
+
+
+
 
 
 
@@ -84,16 +90,14 @@ Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic 
 ### Tabulation:
 
 ## a.   KVL:
+<img width="1059" height="452" alt="Screenshot 2025-09-14 224247" src="https://github.com/user-attachments/assets/b7e69a5c-75ad-4dea-80e9-fc30a47b9845" />
 
-![WhatsApp Image 2025-09-14 at 22 19 25_2228c417](https://github.com/user-attachments/assets/f4ce3448-b274-45e0-be92-56b4913d3d3f)
 
  
 
 
 ## b.  KCL:
-
-![WhatsApp Image 2025-09-14 at 22 19 24_f1bcabdb](https://github.com/user-attachments/assets/6dde29a9-0c5f-4e77-a417-af64cdfb6d63)
-
+<img width="1045" height="447" alt="Screenshot 2025-09-14 224335" src="https://github.com/user-attachments/assets/0d698502-e1a0-4429-80f1-c5a122ba7996" />
 
 
 
